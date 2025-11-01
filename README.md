@@ -38,33 +38,30 @@ cd customer-trends-data-analysis-SQL-Python-PowerBI
 
 This file contains:
 
-.Data Import
+▫ Data Import
+▫ Data exploration
+▫ Data cleaning
+▫ Connection to SQL Database
 
-.Data exploration
+3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
-.Data cleaning
+▫ Create a database in SQL
 
-.Connection to SQL Database
+▫ Run Python code to load data into SQL database
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+▫ Open customer_behavior_sql_queries.sql
 
-Create a database in SQL
+▫ Answer Business Questions using SQL Queries
 
-Run Python code to load data into SQL database
+4. Connect the SQL Database to Power BI
 
-Open customer_behavior_sql_queries.sql
+▫ Open customer_behavior_dashboard.pbix
 
-Answer Business Questions using SQL Queries
+▫ Create interactive dashboard in Power BI
 
-Connect the SQL Database to Power BI
+5. Create Project Report and Presentation
 
-Open customer_behavior_dashboard.pbix
+▫  Create project report
 
-Create interactive dashboard in Power BI
-
-Create Project Report and Presentation
-
-Create project report
-
-Build presentation deck using Gamma AI
+▫  Build presentation deck using Gamma AI
 
